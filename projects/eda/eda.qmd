@@ -1,0 +1,19 @@
+---
+title: "Opioid Claims EDA"
+description: "EDA Project completed in June 2025"
+date: "June 2025"
+resources: "."
+about:
+  template: solana
+  image: cover.jpg
+  links: 
+    - icon: github
+      text: "GitHub"
+      href: "https://github.com/pwjohanson/opioid_eda_1"
+    - icon: easel
+      text: "Slides"
+      href: "https://docs.google.com/presentation/d/1oGw4GMTKagqo6udl90YK4hnU9OKBRXo9f0JSdKl_Fsc/edit?usp=sharing"
+---
+
+
+This is an EDA Project I worked on with two other people in June 2025. We were focused on opioid prescription claims and wanted to understand how the specific opiates prescribed varied by provider specialty in addition to how this varied across states.

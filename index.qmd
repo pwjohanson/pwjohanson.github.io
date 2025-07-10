@@ -1,0 +1,22 @@
+---
+title: "Payson Johanson"
+about:
+  template: trestles
+  image: assets/IMG_0615.jpg
+  links:
+    - icon: inbox
+      text: Email
+      href: mailto:pjohanson@clarku.edu
+    - icon: github
+      text: Github
+      href: https://github.com
+---
+
+Thank you for taking the time to visit my website. I am currently completing the last year of my undergraduate degree at Clark University. When not trudging through proofs or repeatedly pressing run hoping my code will work; I enjoy trail running, reading philosophy, and trying to find the best coffee in Worcester.
+
+## Education
+
+Clark University | Worcester, MA
+
+B.A in Mathematics | Aug 2023 - Present
+
