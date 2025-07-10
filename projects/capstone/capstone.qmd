@@ -1,0 +1,21 @@
+---
+title: "Healthcare Access and Preventable Hospital Stays Capstone"
+description: "Capstone Project completed in July 2025"
+date: "July 2025"
+resources: "."
+about:
+  template: solana
+  image: cover.jpg
+  links: 
+    - icon: github
+      text: "GitHub"
+      href: "https://github.com/pwjohanson/opioid_eda_1"
+    - icon: easel
+      text: "Slides"
+      href: "https://docs.google.com/presentation/d/1oGw4GMTKagqo6udl90YK4hnU9OKBRXo9f0JSdKl_Fsc/edit?usp=sharing"
+    - icon: file-code
+      text: "Report"
+---
+
+
+TBD
