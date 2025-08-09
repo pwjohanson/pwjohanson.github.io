@@ -1,5 +1,5 @@
 ---
-title: "Opioid Claims EDA"
+title: "Opioid Claims"
 description: "EDA Project completed in June 2025"
 date: "June 2025"
 resources: "."
