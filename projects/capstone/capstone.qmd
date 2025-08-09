@@ -9,10 +9,10 @@ about:
   links: 
     - icon: github
       text: "GitHub"
-      href: "https://github.com/pwjohanson/opioid_eda_1"
+      href: "https://github.com/victoriawng/preventable-hospitalizations-accessibility-race.git"
     - icon: easel
       text: "Slides"
-      href: "https://docs.google.com/presentation/d/1oGw4GMTKagqo6udl90YK4hnU9OKBRXo9f0JSdKl_Fsc/edit?usp=sharing"
+      href: "https://docs.google.com/presentation/d/1lebeP96-EXj0DQp-yi0Kz0ZxIUsu8Mgs/edit?usp=sharing&ouid=103257594555173743955&rtpof=true&sd=true"
     - icon: file-code
       text: "Report"
 ---
