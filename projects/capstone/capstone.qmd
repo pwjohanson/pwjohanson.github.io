@@ -15,6 +15,7 @@ about:
       href: "https://docs.google.com/presentation/d/1lebeP96-EXj0DQp-yi0Kz0ZxIUsu8Mgs/edit?usp=sharing&ouid=103257594555173743955&rtpof=true&sd=true"
     - icon: file-code
       text: "Report"
+      href: "final_report.html"
 ---
 
 
