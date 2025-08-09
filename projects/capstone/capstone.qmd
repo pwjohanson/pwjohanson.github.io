@@ -1,5 +1,5 @@
 ---
-title: "Healthcare Access and Preventable Hospital Stays Capstone"
+title: "Healthcare Access and Preventable Hospital Stays"
 description: "Capstone Project completed in July 2025"
 date: "July 2025"
 resources: "."
