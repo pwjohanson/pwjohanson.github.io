@@ -19,9 +19,7 @@ website:
         target: blank
 format:
   html:
-    theme:
-      light: sandstone
-      dark: slate
+    theme: sandstone
     css: styles.css
     toc: true
 
