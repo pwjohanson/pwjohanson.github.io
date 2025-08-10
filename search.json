@@ -25,13 +25,20 @@
     "href": "index.html",
     "title": "Payson Johanson",
     "section": "",
-    "text": "Hello! My name is Payson, and I am a senior at Clark University studying Mathematics and Philosophy. My academic journey began with a deep interest in logic and philosophical reasoning, which honed my ability to think critically and approach problems from multiple perspectives. Over time my interests evolved toward the quantitative and analytical, leading me to pursue mathematics as my primary focus.\nAlongside my core studies, I am expanding into the life sciences, with upcoming coursework in Genetics and Neuroscience. This interdisciplinary foundation fuels my interest in applying mathematical and computational methods to complex problems in biology and healthcare."
+    "text": "Hello! My name is Payson, and I am a senior at Clark University studying Mathematics and Philosophy. My academic journey began with a deep interest in logic and philosophical reasoning, which honed my ability to think critically and approach problems from multiple perspectives. Over time my interests evolved toward the quantitative and analytical, leading me to pursue mathematics as my primary focus.\nAlongside my core studies, I am expanding into the life sciences, with upcoming coursework in Genetics and Neuroscience. This interdisciplinary foundation fuels my interest in applying mathematical and computational methods to complex problems in biology and healthcare.\nOutside of academics, I enjoy running, reading, and spending time outdoors."
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Payson Johanson",
     "section": "Education",
-    "text": "Education\nClark University | Worcester, MA\nB.A in Mathematics | Aug 2023 - Present"
+    "text": "Education\nClark University | Worcester, MA\nB.A in Mathematics | Aug 2023 - May 2026"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Payson Johanson",
+    "section": "Experience",
+    "text": "Experience\nCarnegie Mellon University - United Health Group | Pittsburgh, PA | Research Intern June 2025 - July 2025"
   }
 ]
