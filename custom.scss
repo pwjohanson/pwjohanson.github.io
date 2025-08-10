@@ -1,4 +1,7 @@
+/*-- scss:defaults --*/
 $primary: forestgreen;
 $link-color: $primary;
 $link-hover-color: darkgreen;
-@import minty;
+
+/*-- scss:rules --*/
+@import "minty";
