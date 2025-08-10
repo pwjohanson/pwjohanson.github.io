@@ -10,12 +10,11 @@ website:
         text: Home
       - href: projects.qmd
         text: Projects
+      - href: assets/Resume_2025.pdf
+        text: Resume
     right: 
       - icon: github
         href: https://www.github.com/
-        target: blank
-      - icon: file-pdf
-        href: assets/Resume_2025.pdf
         target: blank
 format:
   html:
