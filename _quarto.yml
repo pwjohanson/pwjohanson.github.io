@@ -19,7 +19,7 @@ website:
         target: blank
 format:
   html:
-    theme: sandstone
+    theme: cosmo
     css: styles.css
     toc: true
 
