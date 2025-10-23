@@ -10,7 +10,7 @@ website:
         text: Home
       - href: projects.qmd
         text: Projects
-      - href: assets/Resume_2025.pdf
+      - href: assets/Resume_2026.pdf
         text: Resume
     right: 
       - icon: github
