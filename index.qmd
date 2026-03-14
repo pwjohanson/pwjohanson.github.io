@@ -12,12 +12,13 @@ about:
       href: https://github.com
 ---
 
-Hello! My name is Payson, and I am a senior at Clark University studying Mathematics and Philosophy.
-My academic journey began with a deep interest in logic and philosophical reasoning, which honed my ability to think critically and approach problems from multiple perspectives. Over time my interests evolved toward the quantitative and analytical, leading me to pursue mathematics as my primary focus.
+Hello! My name is Payson, and I am a senior at Clark University studying Mathematics and Biology.
 
-Alongside my core studies, I am expanding into the life sciences, with upcoming coursework in Genetics and Neuroscience. This interdisciplinary foundation fuels my interest in applying mathematical and computational methods to complex problems in biology and healthcare.
+My academic journey began with an interest in logic and philosophical reasoning, which honed my ability to think critically and approach problems from multiple perspectives. Over time my interests evolved toward the quantitative and analytical, leading me to pursue mathematics as my primary focus.
 
-Outside of academics, I enjoy running, reading, and spending time outdoors.
+Alongside my core studies in mathematics and statistics, I work in Dr.Tabima's lab, where I use bioinformatics tools to study fungal phylogenetics. This interdisciplinary foundation fuels my interest in applying statistical and computational methods to complex problems in biology and healthcare.
+
+Outside of academics, I enjoy running, gaming, and spending time outdoors.
 
 ## Education
 
@@ -26,6 +27,9 @@ Clark University | Worcester, MA
 B.A in Mathematics | Aug 2023 - May 2026
 
 ## Experience
+
+Clark University - Tabima Lab | Worcester, MA | Undergraduate Researcher
+October 2025 - Present
 
 Carnegie Mellon University - United Health Group | Pittsburgh, PA | Research Intern
 June 2025 - July 2025
