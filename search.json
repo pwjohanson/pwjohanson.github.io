@@ -7,13 +7,6 @@
     "text": "Healthcare Access and Preventable Hospital Stays\n\n\nCapstone Project completed in July 2025\n\n\n\n\n\nJul 25, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nOpioid Claims\n\n\nEDA Project completed in June 2025\n\n\n\n\n\nJun 13, 2025\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "projects/capstone/capstone.html",
-    "href": "projects/capstone/capstone.html",
-    "title": "Healthcare Access and Preventable Hospital Stays",
-    "section": "",
-    "text": "This is a project I worked on with two other people in July 2025 as a Capstone for our undergraduate research internship with Carnegie Mellon University and United Health Group. Our research focused on analyzing how healthcare access impacted preventable hospitalizations of different racial groups at the county level."
-  },
-  {
     "objectID": "projects/eda/eda.html",
     "href": "projects/eda/eda.html",
     "title": "Opioid Claims",
@@ -25,7 +18,7 @@
     "href": "index.html",
     "title": "Payson Johanson",
     "section": "",
-    "text": "Hello! My name is Payson, and I am a senior at Clark University studying Mathematics and Philosophy. My academic journey began with a deep interest in logic and philosophical reasoning, which honed my ability to think critically and approach problems from multiple perspectives. Over time my interests evolved toward the quantitative and analytical, leading me to pursue mathematics as my primary focus.\nAlongside my core studies, I am expanding into the life sciences, with upcoming coursework in Genetics and Neuroscience. This interdisciplinary foundation fuels my interest in applying mathematical and computational methods to complex problems in biology and healthcare.\nOutside of academics, I enjoy running, reading, and spending time outdoors."
+    "text": "Hello! My name is Payson, and I am a senior at Clark University studying Mathematics and Biology.\nMy academic journey began with an interest in logic and philosophical reasoning, which honed my ability to think critically and approach problems from multiple perspectives. Over time my interests evolved toward the quantitative and analytical, leading me to pursue mathematics as my primary focus.\nAlongside my core studies in mathematics and statistics, I work in Dr.Tabima’s lab, where I use bioinformatics tools to study fungal phylogenetics. This interdisciplinary foundation fuels my interest in applying statistical and computational methods to complex problems in biology and healthcare.\nOutside of academics, I enjoy running, gaming, and spending time outdoors."
   },
   {
     "objectID": "index.html#education",
@@ -39,6 +32,13 @@
     "href": "index.html#experience",
     "title": "Payson Johanson",
     "section": "Experience",
-    "text": "Experience\nCarnegie Mellon University - United Health Group | Pittsburgh, PA | Research Intern June 2025 - July 2025"
+    "text": "Experience\nClark University - Tabima Lab | Worcester, MA | Undergraduate Researcher October 2025 - Present\nCarnegie Mellon University - United Health Group | Pittsburgh, PA | Research Intern June 2025 - July 2025"
+  },
+  {
+    "objectID": "projects/capstone/capstone.html",
+    "href": "projects/capstone/capstone.html",
+    "title": "Healthcare Access and Preventable Hospital Stays",
+    "section": "",
+    "text": "This is a project I worked on with two other people in July 2025 as a Capstone for our undergraduate research internship with Carnegie Mellon University and United Health Group. Our research focused on analyzing how healthcare access impacted preventable hospitalizations of different racial groups at the county level."
   }
 ]
