@@ -16,7 +16,7 @@ Hello! My name is Payson, and I am a senior at Clark University studying Mathema
 
 My academic journey began with an interest in logic and philosophical reasoning, which honed my ability to think critically and approach problems from multiple perspectives. Over time my interests evolved toward the quantitative and analytical, leading me to pursue mathematics as my primary focus.
 
-Alongside my core studies in mathematics and statistics, I work in Dr.Tabima's lab, where I use bioinformatics tools to study fungal phylogenetics. This interdisciplinary foundation fuels my interest in applying statistical and computational methods to complex problems in biology and healthcare.
+Alongside my core studies in mathematics and statistics, I work in Dr. Tabima's lab, where I use bioinformatics tools to study fungal phylogenetics. This interdisciplinary foundation fuels my interest in applying statistical and computational methods to complex problems in biology and healthcare.
 
 Outside of academics, I enjoy running, gaming, and spending time outdoors.
 
